@@ -1,0 +1,4 @@
+making changes to file.txt
+
+random 
+text 
